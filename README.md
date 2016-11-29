@@ -1,0 +1,3 @@
+# pearldiver.github.io
+my blog, just try hexo, no content...
+maybe i will have time to add something useful later!
